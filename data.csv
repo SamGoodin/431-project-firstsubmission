@@ -1,0 +1,6 @@
+ProgramID,Name,Start Date,Application Deadline,Affiliation,Additional Restriction,Institution,Address Line 1,Address Line 2,Address Line 3,Address Zipcode,Website,Description,Last Updated,Active,Cost,Field,Length,Grade Level,Residential Type,Season,Service Area,Participants
+1,Example,12-Sep-98 0:00:00,12-Sep-98 0:00:00,yes,restrictions,1,10837 Woodlook Lane,addy 2,NULL,47406,website.com,description,16-Apr-20 15:08:52,Yes,Free,Biology,Partial Day,Elementary,No,Autumn,Same City,None
+2,another ex,12-Sep-98 0:00:00,12-Sep-98 0:00:00,yes,rest,1,249 North Richland Street,1111,NULL,46239,website.com,pgm description,16-Apr-20 15:10:17,Yes,Need Based,Bioinformatics,Partial Day,Elementary,Yes, for some students,Autumn,Surrounding Counties,None
+3,name,12-Sep-20 0:00:00,08-Sep-20 0:00:00,yes,restr,0,10837 Woodlook Lane,,NULL,46239,website.com,,16-Apr-20 15:11:36,Yes,Free,Chemistry,Partial Day,Elementary,No,Autumn,Nationwide,None
+4,COOL GUY PGM,12-Sep-98 0:00:00,12-Sep-98 0:00:00,yes,restrictions,0,10837 Woodlook Lane,,NULL,46222,website.com,,16-Apr-20 16:01:12,Yes,Free,Chemistry,Partial Day,Elementary,No,Autumn,Same City,None
+7,another ex,12-Sep-98 0:00:00,12-Sep-98 0:00:00,yes,,1,10837 Woodlook Lane,,NULL,46222,website.com,description,16-Apr-20 18:20:06,Yes,Free,Chemistry,Partial Day,Elementary,No,Autumn,Same City,None

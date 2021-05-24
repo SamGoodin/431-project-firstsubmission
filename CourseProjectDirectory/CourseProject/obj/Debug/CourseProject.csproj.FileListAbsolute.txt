@@ -1,0 +1,506 @@
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe.config
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\csc.rsp
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe.config
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\csi.rsp
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.AppContext.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Console.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe.config
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.rsp
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Users\Owner\OneDrive\2020_Spring\N431\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe.config
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\csc.rsp
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe.config
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\csi.rsp
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.AppContext.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Console.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe.config
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.rsp
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Users\Shawn\Desktop\CSCI N431 E-Commerce with ASP.NET\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe.config
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\csc.rsp
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe.config
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\csi.rsp
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.AppContext.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Console.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Compression.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Claims.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.ValueTuple.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe.config
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.rsp
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Future\School\IUPUI\2020\431\Proj\CourseProjectDirectory-1\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe.config
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.rsp
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe.config
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.rsp
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.AppContext.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Console.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe.config
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.rsp
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Users\Aubrey\Documents\GitHub\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe.config
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.rsp
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe.config
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.rsp
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.AppContext.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Console.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe.config
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.rsp
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samue\Desktop\FUCK THIS\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\samue\Desktop\I WANT TO PUNCH THE WALL\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Users\samue\Desktop\I WANT TO PUNCH THE WALL\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Users\samue\Desktop\I WANT TO PUNCH THE WALL\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Users\samue\Desktop\I WANT TO PUNCH THE WALL\431-Project\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samue\Desktop\I WANT TO PUNCH THE WALL\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\samue\Desktop\I WANT TO PUNCH THE WALL\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\I WANT TO PUNCH THE WALL\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\samue\Desktop\I WANT TO PUNCH THE WALL\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Users\samue\Desktop\I WANT TO PUNCH THE WALL\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe.config
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.rsp
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe.config
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.rsp
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.AppContext.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Console.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe.config
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.rsp
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Users\Aubrey\Desktop\cs438\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe.config
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.rsp
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe.config
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.rsp
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.AppContext.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Console.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe.config
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.rsp
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Users\Aubrey\Desktop\cs438\final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe.config
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.rsp
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe.config
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.rsp
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.AppContext.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Console.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe.config
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.rsp
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\samue\Desktop\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll.config
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\CourseProject.pdb
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.exe.config
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csc.rsp
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.exe.config
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\csi.rsp
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.AppContext.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Console.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.exe.config
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\vbc.rsp
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csprojAssemblyReference.cache
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CoreCompileInputs.cache
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.csproj.CopyComplete
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.dll
+C:\Users\Aubrey\Desktop\cs438\431final\431-Project\CourseProjectDirectory\CourseProject\obj\Debug\CourseProject.pdb
